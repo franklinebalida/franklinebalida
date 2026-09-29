@@ -21,7 +21,11 @@ you do on your own machine.
 | [1. Foundations](roadmap/01-foundations.md) | Networking, Linux, Windows, Python | 8–10 wks | OverTheWire Bandit levels 0–20 |
 | [2. Security Core](roadmap/02-security-core.md) | CIA, crypto, auth, threats, risk | 6–8 wks | CompTIA Security+ |
 
-Later phases (hands-on labs, specialization, and career prep) are still to come.
+After Phase 2, follow the **GRC (Governance, Risk & Compliance) track** in
+[career/transferable-skills.md](career/transferable-skills.md). It is tailored to
+a background in education compliance and accreditation, and it maps existing
+experience to security GRC roles, certifications, portfolio projects and resume
+wording.
 
 ## Weekly rhythm that works
 
